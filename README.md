@@ -11,18 +11,18 @@ __Project Contributors:__
 
 ### Workshop Content
 
-Day 1: Introduction to R I: Basic Programming Concepts
+Day 1: [Introduction to R I: Basic Programming Concepts](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/1-R-basic-concepts)
 
-Day 2: Introduction to R II: Working with Data
+Day 2: [Introduction to R II: Working with Data](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/2-R-data-handling)
 
-Day 3: Parameter Estimation
+Day 3: [Parameter Estimation](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/3-parameter-estimation)
 
-Day 4: Probability Distributions
+Day 4: [Probability Distributions](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/4-probability-functions)
 
-Day 5: Model Comparison
+Day 5: [Model Comparison](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/5-model-comparison)
 
-Day 6: Modeling Response Frequencies - Signal Detection Theory and Multinomial Processing Trees
+Day 6: [Modeling Response Frequencies - Signal Detection Theory and Multinomial Processing Trees](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/6-modeling-frequencies)
 
-Day 7: Modeling Response Times - exGaussian, lognormal and other Distributions
+Day 7: [Modeling Response Times - exGaussian, lognormal and other Distributions](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/7-modeling-response-times)
 
-Day 8: Modeling Response Frequencies and Times Jointly: The Diffusion Model
+Day 8: [Modeling Response Frequencies and Times Jointly: The Diffusion Model](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/8-diffusion-model)
