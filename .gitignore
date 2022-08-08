@@ -30,3 +30,7 @@
 
 # R Environment Variables
 .Renviron
+
+# powerpoint files in the folder for the second and sixth day (Marie)
+2-R-data-handling/*.pptx
+6-modeling-frequencies/*.pptx
