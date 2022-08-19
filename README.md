@@ -27,9 +27,8 @@ Day 7: [Modeling Response Times - exGaussian, lognormal and other Distributions]
 
 Day 8: [Modeling Response Frequencies and Times Jointly: The Diffusion Model](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/8-diffusion-model)
 
+### Recommended Literature
 
-
-### recommended literature
 [Computational Modeling of Cognition and Behavior](https://www.rombach.de/shop/article/33719454/simon_farrell_stephan_lewandowsky_computational_modeling_of_cognition_and_behavior.html) - Simon Farrell & Stephan Lewandowsky 
 
 [Cognitive Modeling](https://www.lehmanns.de/shop/geisteswissenschaften/6567491-9780761924500-cognitive-modeling) - Jerome R. Busemeyer & Adele Diederich 
