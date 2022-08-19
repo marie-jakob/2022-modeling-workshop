@@ -15,9 +15,9 @@ Day 1: [Introduction to R I: Basic Programming Concepts](https://github.com/mari
 
 Day 2: [Introduction to R II: Working with Data](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/2-R-data-handling)
 
-Day 3: [Parameter Estimation](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/3-parameter-estimation)
+Day 3: [Probability Functions](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/3-probability-functions)
 
-Day 4: [Probability Distributions](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/4-probability-functions)
+Day 4: [Parameter Estimation](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/4-parameter-estimation)
 
 Day 5: [Model Comparison](https://github.com/marie-jakob/2022-modeling-workshop/tree/main/5-model-comparison)
 
